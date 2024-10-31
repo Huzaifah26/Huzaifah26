@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Huzaifah26
-- 👀 I’m interested in becoming a Data Engineer.
-- 🌱 I’m currently learning Tableau and Power Bi.
+- 👀 I’m interested in becoming a Data Engineer/Data Scientist.
+- 🌱 I’m currently learning Power Bi.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 You can reach me through Linkedin.
+- 📫 You can reach me through Linkedin-www.linkedin.com/in/syeda-huzaifah.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm good at data handling, data management, and I also enjoy learning new skills.
 
