@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huzaifah26
 - 👀 I’m interested in becoming a Data Engineer/Data Scientist.
-- 🌱 I’m currently learning Power Bi.
+- 🌱 I’ve  recently completed data analyst intership at Abhyaz.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 You can reach me through Linkedin-www.linkedin.com/in/syeda-huzaifah.
 - 😄 Pronouns: She/Her
